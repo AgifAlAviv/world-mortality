@@ -35,18 +35,18 @@ Andorra,Andorra,AND,30/09/2020,27,24,25,16,23,30,24,,46.2
 Andorra,Andorra,AND,31/10/2020,51,26,25,24,24,33,23,,46.2
 Andorra,Andorra,AND,30/11/2020,19,25,16,24,29,24,30,,46.2
 Andorra,Andorra,AND,31/12/2020,41,30,27,35,30,25,31,,46.2
-Antigua and Barbuda,Antigua and Barbuda,ATG,31/01/2020,50,42,36,31,42,37,63,,32.7
-Antigua and Barbuda,Antigua and Barbuda,ATG,29/02/2020,47,50,53,49,49,40,61,,32.7
-Antigua and Barbuda,Antigua and Barbuda,ATG,31/03/2020,60,55,60,57,52,60,45,,32.7
-Antigua and Barbuda,Antigua and Barbuda,ATG,30/04/2020,49,44,20,60,41,60,40,,32.7
-Antigua and Barbuda,Antigua and Barbuda,ATG,31/05/2020,52,46,46,34,54,58,38,,32.7
-Antigua and Barbuda,Antigua and Barbuda,ATG,30/06/2020,42,46,44,43,38,42,63,,32.7
-Antigua and Barbuda,Antigua and Barbuda,ATG,31/07/2020,46,42,37,23,43,53,54,,32.7
-Antigua and Barbuda,Antigua and Barbuda,ATG,31/08/2020,44,54,55,61,49,48,57,,32.7
-Antigua and Barbuda,Antigua and Barbuda,ATG,30/09/2020,45,47,49,38,45,54,51,,32.7
-Antigua and Barbuda,Antigua and Barbuda,ATG,31/10/2020,50,51,49,52,68,44,44,,32.7
-Antigua and Barbuda,Antigua and Barbuda,ATG,30/11/2020,49,48,50,55,43,42,48,,32.7
-Antigua and Barbuda,Antigua and Barbuda,ATG,31/12/2020,40,45,34,45,49,43,54,,32.7
+Antigua/Barbuda,Antigua/Barbuda,ATG,31/01/2020,50,42,36,31,42,37,63,,32.7
+Antigua/Barbuda,Antigua/Barbuda,ATG,29/02/2020,47,50,53,49,49,40,61,,32.7
+Antigua/Barbuda,Antigua/Barbuda,ATG,31/03/2020,60,55,60,57,52,60,45,,32.7
+Antigua/Barbuda,Antigua/Barbuda,ATG,30/04/2020,49,44,20,60,41,60,40,,32.7
+Antigua/Barbuda,Antigua/Barbuda,ATG,31/05/2020,52,46,46,34,54,58,38,,32.7
+Antigua/Barbuda,Antigua/Barbuda,ATG,30/06/2020,42,46,44,43,38,42,63,,32.7
+Antigua/Barbuda,Antigua/Barbuda,ATG,31/07/2020,46,42,37,23,43,53,54,,32.7
+Antigua/Barbuda,Antigua/Barbuda,ATG,31/08/2020,44,54,55,61,49,48,57,,32.7
+Antigua/Barbuda,Antigua/Barbuda,ATG,30/09/2020,45,47,49,38,45,54,51,,32.7
+Antigua/Barbuda,Antigua/Barbuda,ATG,31/10/2020,50,51,49,52,68,44,44,,32.7
+Antigua/Barbuda,Antigua/Barbuda,ATG,30/11/2020,49,48,50,55,43,42,48,,32.7
+Antigua/Barbuda,Antigua/Barbuda,ATG,31/12/2020,40,45,34,45,49,43,54,,32.7
 Argentina,Argentina,ARG,31/01/2020,25571,26433,25583,27557,26724,26030,26271,,32.4
 Argentina,Argentina,ARG,29/02/2020,24212,23825,22728,25416,23774,23518,23688,,32.4
 Argentina,Argentina,ARG,31/03/2020,25639,26001,25145,27008,26151,25683,26020,,32.4
@@ -311,18 +311,18 @@ Bolivia,Bolivia,BOL,30/09/2020,5209,4112,4019,3965,4124,4193,4258,5395,25.3
 Bolivia,Bolivia,BOL,31/10/2020,4932,4200,4189,4126,4176,4189,4321,5087,25.3
 Bolivia,Bolivia,BOL,30/11/2020,4601,4013,3932,4069,3878,4191,3994,5483,25.3
 Bolivia,Bolivia,BOL,31/12/2020,4756,4296,4154,4205,4101,4406,4614,10411,25.3
-Bosnia and Herzegovina,Bosnia and Herzegovina,BIH,31/01/2020,2800,3456,4082,3539,3443,2774,3444,3452,43.3
-Bosnia and Herzegovina,Bosnia and Herzegovina,BIH,29/02/2020,3203,3373,3464,3139,3372,3377,3512,3454,43.3
-Bosnia and Herzegovina,Bosnia and Herzegovina,BIH,31/03/2020,2970,3424,3657,3360,3223,3640,3239,4787,43.3
-Bosnia and Herzegovina,Bosnia and Herzegovina,BIH,30/04/2020,3207,3069,3257,2995,2783,3186,3122,6051,43.3
-Bosnia and Herzegovina,Bosnia and Herzegovina,BIH,31/05/2020,2938,3056,3059,2941,3078,2964,3240,4223,43.3
-Bosnia and Herzegovina,Bosnia and Herzegovina,BIH,30/06/2020,2953,2822,2831,2866,2899,2698,2817,3276,43.3
-Bosnia and Herzegovina,Bosnia and Herzegovina,BIH,31/07/2020,3066,2867,3150,2732,2766,2716,2969,3067,43.3
-Bosnia and Herzegovina,Bosnia and Herzegovina,BIH,31/08/2020,3329,2911,2823,2851,2975,3003,2905,3019,43.3
-Bosnia and Herzegovina,Bosnia and Herzegovina,BIH,30/09/2020,3459,2727,2767,2725,2637,2824,2683,3779,43.3
-Bosnia and Herzegovina,Bosnia and Herzegovina,BIH,31/10/2020,3506,3072,3015,3095,2958,3124,3170,4125,43.3
-Bosnia and Herzegovina,Bosnia and Herzegovina,BIH,30/11/2020,5410,2994,3001,2994,3115,2895,2963,4615,43.3
-Bosnia and Herzegovina,Bosnia and Herzegovina,BIH,31/12/2020,5962,3127,3044,3334,3087,3104,3066,4655,43.3
+Bosnia Herz.,Bosnia Herz.,BIH,31/01/2020,2800,3456,4082,3539,3443,2774,3444,3452,43.3
+Bosnia Herz.,Bosnia Herz.,BIH,29/02/2020,3203,3373,3464,3139,3372,3377,3512,3454,43.3
+Bosnia Herz.,Bosnia Herz.,BIH,31/03/2020,2970,3424,3657,3360,3223,3640,3239,4787,43.3
+Bosnia Herz.,Bosnia Herz.,BIH,30/04/2020,3207,3069,3257,2995,2783,3186,3122,6051,43.3
+Bosnia Herz.,Bosnia Herz.,BIH,31/05/2020,2938,3056,3059,2941,3078,2964,3240,4223,43.3
+Bosnia Herz.,Bosnia Herz.,BIH,30/06/2020,2953,2822,2831,2866,2899,2698,2817,3276,43.3
+Bosnia Herz.,Bosnia Herz.,BIH,31/07/2020,3066,2867,3150,2732,2766,2716,2969,3067,43.3
+Bosnia Herz.,Bosnia Herz.,BIH,31/08/2020,3329,2911,2823,2851,2975,3003,2905,3019,43.3
+Bosnia Herz.,Bosnia Herz.,BIH,30/09/2020,3459,2727,2767,2725,2637,2824,2683,3779,43.3
+Bosnia Herz.,Bosnia Herz.,BIH,31/10/2020,3506,3072,3015,3095,2958,3124,3170,4125,43.3
+Bosnia Herz.,Bosnia Herz.,BIH,30/11/2020,5410,2994,3001,2994,3115,2895,2963,4615,43.3
+Bosnia Herz.,Bosnia Herz.,BIH,31/12/2020,5962,3127,3044,3334,3087,3104,3066,4655,43.3
 Brazil,Brazil,BRA,31/01/2020,113395,107201,106695,106199,105899,106838,110373,151425,33.2
 Brazil,Brazil,BRA,29/02/2020,106414,96649,90612,102818,97082,94994,97737,136802,33.2
 Brazil,Brazil,BRA,31/03/2020,120185,108379,102473,111631,108850,109390,109549,209063,33.2
